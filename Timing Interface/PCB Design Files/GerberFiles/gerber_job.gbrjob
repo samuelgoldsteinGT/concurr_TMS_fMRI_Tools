@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-10-27T12:10:36Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "schem_interface_v2"
+        },
+        "Owner": "Samuel Goldstein <sgoldstein41@gatech.edu>",
+        "Size": {
+            "X": 76.18,
+            "Y": 75.87
+        }
+    }
+}
